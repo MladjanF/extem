@@ -422,11 +422,8 @@ b i:last-child {
     color: #ffbf00 !important;
 }
 
-.box-intro h5 {
-    letter-spacing: 4px;
-    text-transform: uppercase;
-    color: black;
-    line-height: 1.7;
+.box-intro h3 {    
+    color: black;    
 }
 
 
@@ -1129,8 +1126,8 @@ textarea:focus {
     .box-headline {
         font-size: 100px;
     }
-    .box-intro h5 {
-        font-size: 12px;
+    .box-intro h3 {
+        font-size: 16px;
     }
     .box-primary-nav a {
         padding: 5px 1em;
@@ -1155,8 +1152,8 @@ textarea:focus {
     .box-headline {
         font-size: 80px;
     }
-    .box-intro h5 {
-        font-size: 12px;
+    .box-intro h3 {
+        font-size: 16px;
     }
     .main-container {
         padding: 50px 0;
@@ -1167,8 +1164,8 @@ textarea:focus {
     .box-headline {
         font-size: 50px;
     }
-    .box-intro h5 {
-        font-size: 12px;
+    .box-intro h3 {
+        font-size: 16px;
     }
     .top-bar h1 {
         font-size: 30px;
