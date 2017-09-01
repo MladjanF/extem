@@ -806,7 +806,7 @@ b i:last-child {
     display: inline-block;
     margin: 0 auto;
     text-align: center;
-    margin-bottom: 50px;
+    margin-bottom: 60px;
 }
 
 .portfolio-inner {
@@ -888,7 +888,7 @@ footer img {
     padding: 150px 0 150px;
     background: -webkit-linear-gradient( rgba(255, 255, 255, .85), rgba(255, 255, 255, .85)), url(../img/extem.jpg);
     background: linear-gradient( rgba(255, 255, 255, .85), rgba(255, 255, 255, .85)), url(../img/extem.jpg);
-    background-size: 3%;    
+    background-size: 5%;    
     background-attachment: fixed;
     background-position: center center;
     text-align: center;         
