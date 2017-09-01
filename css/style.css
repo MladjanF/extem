@@ -696,7 +696,7 @@ b i:last-child {
     text-decoration: none;
 }
 
-.portfolio_filter {
+.portfolio_button {
     padding-left: 0;
 }
 
@@ -801,7 +801,7 @@ b i:last-child {
     transition: all .2s ease-in-out .2s;
 }
 
-.portfolio_filter {
+.portfolio_button {
     padding-left: 0;
     display: inline-block;
     margin: 0 auto;
