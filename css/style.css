@@ -809,6 +809,14 @@ b i:last-child {
     margin-bottom: 70px;
 }
 
+.portfolio .categories-grid .categories ul li a:hover {
+    margin-left: 0;
+    background-color: #ffbf00;
+    padding: 0px 20px;    
+    border-radius: 25px;
+    text-decoration: none;
+}
+
 .portfolio-inner {
     padding-bottom: 0 !important;
     padding-top: 55px;
